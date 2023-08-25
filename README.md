@@ -72,6 +72,14 @@ git commit -m "[BOJ] Hello World / 브론즈5 / 1분" -m "https://www.acmicpc.ne
 - [백준 [골드5] : 진우의 달 여행](https://www.acmicpc.net/problem/17485)
 - [프로그래머스 [레벨2] : 다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)
 </details>
+<details>
+<summary>3주차</summary>
+
+- [백준 [실버1] : 돌다리](https://www.acmicpc.net/problem/12761)
+- [백준 [골드5] : 적록색약](https://www.acmicpc.net/problem/10026)
+- [백준 [골드4] : 일루미네이션](https://www.acmicpc.net/problem/5547)
+- [프로그래머스 [레벨3] : 합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413)
+</details>
 
 ### 문제 참고
 - https://github.com/tony9402/baekjoon/tree/main/math
