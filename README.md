@@ -81,6 +81,16 @@ git commit -m "[BOJ] Hello World / 브론즈5 / 1분" -m "https://www.acmicpc.ne
 - [프로그래머스 [레벨3] : 합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413)
 </details>
 
+<details>
+<summary>4주차</summary>
+
+- [백준 [골드4] : 카드 정렬하기](https://www.acmicpc.net/problem/1715)
+- [백준 [실버1] : 신입사원](https://www.acmicpc.net/problem/1946)
+- [백준 [실버1] : 회의실배정](https://www.acmicpc.net/problem/1931)
+- [프로그래머스 [레벨3] : 등산코드 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/118669)
+- [프로그래머스 [레벨2] : 조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)
+</details>
+
 ### 문제 참고
 - https://github.com/tony9402/baekjoon/tree/main/math
 - https://dev-dain.tistory.com/155
