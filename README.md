@@ -95,7 +95,7 @@ git commit -m "[BOJ] Hello World / 브론즈5 / 1분" -m "https://www.acmicpc.ne
 
 - [백준 [골드4] : 최단경로](https://www.acmicpc.net/problem/1753)
 - [백준 [골드4] : 플로이드](https://www.acmicpc.net/problem/11404)
-- [백준 [실버1] : 공유기 설치](https://www.acmicpc.net/problem/2110)
+- [백준 [골드4] : 공유기 설치](https://www.acmicpc.net/problem/2110)
 - [프로그래머스 [레벨3] : 입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)
 </details>
 
