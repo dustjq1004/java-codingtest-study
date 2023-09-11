@@ -99,6 +99,14 @@ git commit -m "[BOJ] Hello World / 브론즈5 / 1분" -m "https://www.acmicpc.ne
 - [프로그래머스 [레벨3] : 입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)
 </details>
 
+<details>
+<summary>6주차</summary>
+
+- [백준 [골드5] : 1학년](https://www.acmicpc.net/problem/5557)
+- [백준 [골드5] : 동전](https://www.acmicpc.net/problem/2294)
+- [백준 [실버1] : RGB거리](https://www.acmicpc.net/problem/1149)
+- [프로그래머스 [레벨3] : 등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)
+</details>
 
 
 ### 문제 참고
