@@ -99,6 +99,8 @@ git commit -m "[BOJ] Hello World / 브론즈5 / 1분" -m "https://www.acmicpc.ne
 - [프로그래머스 [레벨3] : 입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)
 </details>
 
+
+
 <details>
 <summary>6주차</summary>
 
@@ -106,6 +108,15 @@ git commit -m "[BOJ] Hello World / 브론즈5 / 1분" -m "https://www.acmicpc.ne
 - [백준 [골드5] : 동전](https://www.acmicpc.net/problem/2294)
 - [백준 [실버1] : RGB거리](https://www.acmicpc.net/problem/1149)
 - [프로그래머스 [레벨3] : 등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)
+</details>
+
+<details>
+<summary>7주차</summary>
+
+- [백준 [실버2] : 과자 나눠주기](https://www.acmicpc.net/problem/16401)
+- [백준 [골드5] : 치킨 배달](https://www.acmicpc.net/problem/15686)
+- [백준 [골드4] : 좋다](https://www.acmicpc.net/problem/1253)
+- [프로그래머스 [레벨2] : 전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)
 </details>
 
 
