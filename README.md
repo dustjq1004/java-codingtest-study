@@ -119,6 +119,15 @@ git commit -m "[BOJ] Hello World / 브론즈5 / 1분" -m "https://www.acmicpc.ne
 - [프로그래머스 [레벨2] : 전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)
 </details>
 
+<details>
+<summary>8주차</summary>
+
+- [백준 [실버3] : 꿀 아르바이트](https://www.acmicpc.net/problem/12847)
+- [백준 [실버2] : 마인크래프트](https://www.acmicpc.net/problem/18111)
+- [백준 [골드3] : 아기상어](https://www.acmicpc.net/problem/16236)
+- [프로그래머스 [레벨2] : 택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)
+</details>
+
 
 ### 문제 참고
 - https://github.com/tony9402/baekjoon/tree/main/math
