@@ -128,6 +128,14 @@ git commit -m "[BOJ] Hello World / 브론즈5 / 1분" -m "https://www.acmicpc.ne
 - [프로그래머스 [레벨2] : 택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)
 </details>
 
+<details>
+<summary>9주차</summary>
+   
+- [백준 [골드4] : 테트로미노](https://www.acmicpc.net/problem/14500)
+- [백준 [골드4] : 미세먼지 안녕!](https://www.acmicpc.net/problem/17144)
+- [프로그래머스 [레벨2] : 숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807)
+- [프로그래머스 [레벨2] : 주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)
+</details>
 
 ### 문제 참고
 - https://github.com/tony9402/baekjoon/tree/main/math
