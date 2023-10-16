@@ -137,6 +137,16 @@ git commit -m "[BOJ] Hello World / 브론즈5 / 1분" -m "https://www.acmicpc.ne
 - [프로그래머스 [레벨2] : 주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)
 </details>
 
+
+<details>
+<summary>10주차</summary>
+   
+- [백준 [골드4] : 뱀](https://www.acmicpc.net/problem/3190)
+- [백준 [골드3] : 최소비용 구하기 2](https://www.acmicpc.net/problem/11779)
+- [프로그래머스 [레벨2] : 시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996)
+- [프로그래머스 [레벨2] : 이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)
+</details>
+
 ### 문제 참고
 - https://github.com/tony9402/baekjoon/tree/main/math
 - https://dev-dain.tistory.com/155
