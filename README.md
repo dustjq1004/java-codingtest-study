@@ -52,7 +52,6 @@ git commit -m "[BOJ] Hello World / 브론즈5 / 1분" -m "https://www.acmicpc.ne
 4. commit 후 push를 하고, github에 접속해 PR을 작성하고 기존 레포에 자신의 커밋들을 Merge한다.
 5. ❗️자신이 푼 java 파일만 push 한다. 이외에 것들은 올리지 말아주세요. ex) classpath 등 각종 설정파일
  - 최상위 폴더에서 ```git add .``` 금지
-6. 풀지 못한 문제는 다른 코드 참고하여 풀지 말고, 오프라인에서 다른 분 코드를 보고 모르는 부분은 질문하여 해결.
 
 ## 문제
 
@@ -145,6 +144,17 @@ git commit -m "[BOJ] Hello World / 브론즈5 / 1분" -m "https://www.acmicpc.ne
 - [백준 [골드3] : 최소비용 구하기 2](https://www.acmicpc.net/problem/11779)
 - [프로그래머스 [레벨2] : 시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996)
 - [프로그래머스 [레벨2] : 이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)
+</details>
+
+
+<details>
+<summary>11주차</summary>
+   
+- [백준 [실버2] : 연결 요소의 개수](https://www.acmicpc.net/problem/11724)
+- [백준 [골드5] : 컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)
+- [백준 [골드5] : 숨바꼭질 3](https://www.acmicpc.net/problem/13549)
+- [프로그래머스 [레벨2] : 두 큐합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)
+- [프로그래머스 [레벨3] : 미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)
 </details>
 
 ### 문제 참고
