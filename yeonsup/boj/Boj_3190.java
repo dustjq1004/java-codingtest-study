@@ -7,10 +7,9 @@ import java.util.*;
 
 class Snake {
     private List<Node> pos;
-    private int length;
     private Node head;
     private Node tail;
-
+    private int length;
     private int direction;
 
     public Snake() {
@@ -150,7 +149,7 @@ public class Boj_3190 {
             }
 
             board[newHead.x][newHead.y] = 2;
-
+            // 이동 정보를 가지고와 일정 시간이 되면 방향 전환
             if (moveMap.containsKey(time)) snake.setDirection(moveMap.get(time));
         }
 
