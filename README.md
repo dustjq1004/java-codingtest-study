@@ -157,6 +157,17 @@ git commit -m "[BOJ] Hello World / 브론즈5 / 1분" -m "https://www.acmicpc.ne
 - [프로그래머스 [레벨3] : 미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)
 </details>
 
+<details>
+<summary>12주차</summary>
+   
+- [백준 [실버4] : 좋은 단어](https://www.acmicpc.net/problem/3986)
+- [백준 [골드5] : 회문](https://www.acmicpc.net/problem/17609)
+- [프로그래머스 [레벨2] : 운영체제](https://school.programmers.co.kr/learn/courses/30/lessons/121686)
+- [프로그래머스 [레벨2] : 가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)
+</details>
+
+
+
 ### 문제 참고
 - https://github.com/tony9402/baekjoon/tree/main/math
 - https://dev-dain.tistory.com/155
