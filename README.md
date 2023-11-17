@@ -166,6 +166,14 @@ git commit -m "[BOJ] Hello World / 브론즈5 / 1분" -m "https://www.acmicpc.ne
 - [프로그래머스 [레벨2] : 가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)
 </details>
 
+<details>
+<summary>13주차</summary>
+   
+- [백준 [골드4] : 불!](https://www.acmicpc.net/problem/4179)
+- [프로그래머스 [레벨2] : 빛의 경로 사이클](https://school.programmers.co.kr/learn/courses/30/lessons/86052)
+- [프로그래머스 [레벨2] : 튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)
+- [프로그래머스 [레벨2~3] : PCCP 기출 3번](https://school.programmers.co.kr/learn/courses/19344/lessons/242260)
+</details>
 
 
 ### 문제 참고
