@@ -175,6 +175,14 @@ git commit -m "[BOJ] Hello World / 브론즈5 / 1분" -m "https://www.acmicpc.ne
 - [프로그래머스 [레벨2~3] : PCCP 기출 3번](https://school.programmers.co.kr/learn/courses/19344/lessons/242260)
 </details>
 
+<details>
+<summary>14주차</summary>
+   
+- [백준 [실버3] : 2nx타일링](https://www.acmicpc.net/problem/11726)
+- [백준 [골드5] : 암호만들기](https://www.acmicpc.net/problem/1759)
+- [프로그래머스 [레벨2] : 롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)
+- [프로그래머스 [레벨2] : 메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)
+</details>
 
 ### 문제 참고
 - https://github.com/tony9402/baekjoon/tree/main/math
