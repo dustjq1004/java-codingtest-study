@@ -18,10 +18,8 @@ public class 젤다 {
 
     public static void main(String[] args) throws IOException {
         BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
-        n = Integer.parseInt(bf.readLine());
         int pNum = 0;
-
-        do {
+        while ((n = Integer.parseInt(bf.readLine())) != 0) {
             pNum++;
             board = new int[n][n];
             dist = new int[n][n];
@@ -36,7 +34,7 @@ public class 젤다 {
             dijstra(0, 0);
 
             System.out.println("Problem " + pNum + ": " + dist[n - 1][n - 1]);
-        } while ((n = Integer.parseInt(bf.readLine())) != 0);
+        }
     }
 
     private static void dijstra(int y, int x) {
